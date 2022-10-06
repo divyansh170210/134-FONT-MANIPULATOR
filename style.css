@@ -10,14 +10,14 @@
 }
     .copy_right_footer {
         position: fixed;
-        color: rgb(0, 225, 255);
+        background: linear-gradient(to left, #5d4157, #a8caba);
         bottom: 0;
         width: 100%;
         font-size: 25px;
-        background-color: rgb(0, 0, 0);
+        color: rgb(55, 255, 0);
         line-height: 3;
         text-align: center;
-        text-shadow: 5px 5px 5px rgb(255, 170, 0);
+        text-shadow: 5px 5px 5px rgb(0, 255, 229);
         font-family:'Courier New', Courier, monospace
      }
      canvas{
@@ -30,8 +30,5 @@ body{
     font-family: monospace;
 }
 span{
-    color: blue;
-}
-h1{
-    
+    color: hotpink;
 }
